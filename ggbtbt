@@ -119,7 +119,7 @@ local Library do
         ["Default"] = {
             ["Background"] = FromRGB(15, 14, 18),
             ["Inline"] = FromRGB(0, 0, 0),
-            ["Text"] = FromRGB(255, 0, 0),
+            ["Text"] = FromRGB(255, 255, 255),
             ["Element"] = FromRGB(52, 51, 49),
             ["Accent"] = FromRGB(255, 0, 0),
             ["Image"] = FromRGB(255, 0, 0),
