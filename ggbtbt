@@ -5299,18 +5299,7 @@ local Library do
                 })
                 
                 local Images = {
-                    ["Scary Cat"] = "rbxassetid://71369006447791", 
-                    ["Scary Cat 2"] = "rbxassetid://71369006447791",
-                    ["idk some image"] = "rbxassetid://126592927138240",
-                    ["mark zuckerberg"] = "rbxassetid://71658891270677",
-                    ["Abstract"] = "rbxassetid://6073743871",
-                    ["Hexagon"] = "rbxassetid://6073628839",
-                    ["Circles"] = "rbxassetid://6071579801",
-                    ["Lace With Flowers"] = "rbxassetid://6071575925",
-                    ["Floral"] = "rbxassetid://5553946656",
-                    ["Halloween"] = "rbxassetid://11113209821",
-                    ["Christmas"] = "rbxassetid://11711560928",
-                    ["Galaxy"] = "rbxassetid://80544508810139",
+                    ["IMG_7220"] = "rbxassetid://71369006447791",
                 }
 
                 local ImagesDropdown = SettingsSection:Dropdown({
