@@ -5299,7 +5299,7 @@ local Library do
                 })
                 
                 local Images = {
-                    ["Scary Cat"] = "rbxassetid://115002736787206", 
+                    ["Scary Cat"] = "rbxassetid://71369006447791", 
                     ["Scary Cat 2"] = "rbxassetid://71369006447791",
                     ["idk some image"] = "rbxassetid://126592927138240",
                     ["mark zuckerberg"] = "rbxassetid://71658891270677",
